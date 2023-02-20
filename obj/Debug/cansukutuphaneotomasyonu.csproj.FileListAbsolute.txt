@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\bin\Debug\cansukutuphaneotomasyonu.exe.config
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\bin\Debug\cansukutuphaneotomasyonu.exe
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\bin\Debug\cansukutuphaneotomasyonu.pdb
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.Form1.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.Properties.Resources.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.exe
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.pdb
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.uyekaydi.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.uyelisteleme.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.kitapeklemeformu.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.kitapsilmeformu.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.kitapalform.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.kitapiade.resources
+C:\Users\HP\source\repos\cansukutuphaneotomasyonu\obj\Debug\cansukutuphaneotomasyonu.emanetkitaplistele.resources
